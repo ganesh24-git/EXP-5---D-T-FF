@@ -13,6 +13,7 @@ Q(next) = D
 Q(next) = T ⊕ Q   (Q(next) = Q if T = 0, Q(next) = Q' if T = 1)
 ## Files to be Created
 <img width="625" height="50" alt="image" src="https://github.com/user-attachments/assets/65034a51-5642-46ac-940a-f7ee975cea9c" />
+<img width="1397" height="751" alt="dlc experiment 5" src="https://github.com/user-attachments/assets/5a815bb5-bfe2-4b83-953d-699ab274a617" />
 
 ## Design / RTL Program
 
@@ -21,6 +22,7 @@ Q(next) = T ⊕ Q   (Q(next) = Q if T = 0, Q(next) = Q' if T = 1)
 
 
 ## Truth Table
+<img width="1397" height="751" alt="dlc experiment 5" src="https://github.com/user-attachments/assets/5ed662d9-b8cb-42d9-be8c-e9121b393b0b" />
 
 <img width="349" height="264" alt="image" src="https://github.com/user-attachments/assets/d05e6f9d-ff68-466e-9eb8-52e22fa1b961" />
 
